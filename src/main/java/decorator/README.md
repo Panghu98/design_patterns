@@ -8,3 +8,4 @@
 装饰者模式包括Source和Decorator两种角色，Source是被装饰者，Decorator是装饰者。装饰者模式通过装饰者可以为 被装饰者Source
 东塔添加一些功能。
 
+![](.README_images/57196762.png)
