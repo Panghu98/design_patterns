@@ -23,3 +23,4 @@
 - 具体状态（Concrete State）
 实现抽象状态所定义的行为。
 
+![](.README_images/340bd381.png)
